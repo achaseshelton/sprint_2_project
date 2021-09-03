@@ -123,6 +123,10 @@ aside {
   padding: 1%;
 }
 
+aside ul  {
+    list-style-type: none;
+}
+
 aside a {
   display: block;
   float: left;
